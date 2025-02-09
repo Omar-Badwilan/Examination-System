@@ -24,6 +24,6 @@ git clone https://github.com/your-username/examination-system.git
 2️⃣ Build and run the project in Visual Studio.
 3️⃣ Follow the prompts to create and take exams.
 
-🔮 Future Plans
+## 🔮 Future Plans
 Add more question types and UI improvements
 Integrate a database for exam storage

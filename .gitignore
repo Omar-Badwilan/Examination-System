@@ -2,6 +2,4 @@
 
 !.gitignore
 !C43-G03-EX02.sln
-!*.cs
-!/AbstractExam
-!/AbstractQuestion
+!C43-G03-EX02/**/*.cs

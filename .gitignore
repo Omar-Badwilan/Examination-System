@@ -1,0 +1,7 @@
+*
+
+!.gitignore
+!C43-G03-EX02.sln
+!C43-G03-EX02.cs
+!C43-G03-EX02/AbstractExam
+!C43-G03-EX02/AbstractQuestion

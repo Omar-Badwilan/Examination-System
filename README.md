@@ -20,6 +20,7 @@ A modular **C#** application for creating and managing exams. Supports **Final**
 1️⃣ Clone the repository:  
 ```bash
 git clone https://github.com/your-username/examination-system.git
+```
 2️⃣ Build and run the project in Visual Studio.
 3️⃣ Follow the prompts to create and take exams.
 
